@@ -1,0 +1,49 @@
+{
+  "version": "v4.761",
+  "files": {
+    "DmReg.dll": {
+      "sha256": "2a37ce301490bd4b7c5d02b768b054705fe4620db6ef81061718c1fe89c9f27e",
+      "size": 53248
+    },
+    "Im.dll": {
+      "sha256": "c9d3c7a0ae1948cce4dc93fe1a381b52ca22dcc6c90878727ff19e6bbc7f8fd0",
+      "size": 4139576
+    },
+    "ImCon.dll": {
+      "sha256": "42f657123974cb034d3a94a0f1a85e9d82e5127bba44f66394ebbba29aa6e282",
+      "size": 53248
+    },
+    "dm.dll": {
+      "sha256": "a4237355985c30c8ff83c9e89f959c42306c85ccba421e856edcc653d6e45605",
+      "size": 4154116
+    },
+    "update.exe": {
+      "sha256": "329a19e0386f4afa934f2720785cb1effcf3fdde674a0f921198a23193aa9c52",
+      "size": 4218380
+    },
+    "win11/ProjectArk_Installer.exe": {
+      "sha256": "4d4b45cc01f730e947d5afc17f78f754e97b81257dafc5d430f55a84f9a10111",
+      "size": 24964477
+    },
+    "win11/dot.exe": {
+      "sha256": "5248660feae4700d2f26b27ab68127568a8cabdea7780f4bf455f5907283757d",
+      "size": 26294780
+    },
+    "win11/setup.exe": {
+      "sha256": "268b1e57520f2e320a940587ee6a59271a003a283c465e0c114a042ac9a122af",
+      "size": 24869300
+    },
+    "win7/ProjectArk_Installer.exe": {
+      "sha256": "89285151c899178d403a91d883d1f4b88105f70c9f7a1b1a124db9f79b4e4706",
+      "size": 23784072
+    },
+    "win7/dot.exe": {
+      "sha256": "a7a1a3b1b92402a9f7d239411525e5c47ba6f45fcf38fe7c0157ad204a63fc34",
+      "size": 25503005
+    },
+    "win7/setup.exe": {
+      "sha256": "e1377c722b6a009b7c5e8f6f8ae30ce03793ce414a72cc4debda05b21992e8ed",
+      "size": 24076679
+    }
+  }
+}
