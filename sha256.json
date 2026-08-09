@@ -25,6 +25,10 @@
       "sha256": "4d4b45cc01f730e947d5afc17f78f754e97b81257dafc5d430f55a84f9a10111",
       "size": 24964477
     },
+    "win11/dot-beta.exe": {
+      "sha256": "d5d929827726834ed24c75a21b8d4daed4a59ba3d40a9615598d1c272dbb03e0",
+      "size": 26156931
+    },
     "win11/dot.exe": {
       "sha256": "b1ffc7b070d839c8873c05adc14635692a43ed25a05e946f3241918a6e1fde0f",
       "size": 26294996
