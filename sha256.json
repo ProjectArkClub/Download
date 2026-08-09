@@ -26,28 +26,28 @@
       "size": 24964477
     },
     "win11/dot-beta.exe": {
-      "sha256": "d5d929827726834ed24c75a21b8d4daed4a59ba3d40a9615598d1c272dbb03e0",
-      "size": 26156931
+      "sha256": "1372714bd789506a9192fbe1a39ffd0237500833ff2cae43ae85afb7389b1df1",
+      "size": 26156899
     },
     "win11/dot.exe": {
-      "sha256": "b1ffc7b070d839c8873c05adc14635692a43ed25a05e946f3241918a6e1fde0f",
-      "size": 26294996
+      "sha256": "e2dac4f497292279829c72d7bb63171f32b35f8777c480c29cb2d38c6701ff43",
+      "size": 26303438
     },
     "win11/setup.exe": {
-      "sha256": "3dea6c2f2bf135a3ca79dfacd1e53c20ae3a2ea07a00fbd569c196c1cce89e35",
-      "size": 24869383
+      "sha256": "dcb3bae65918180900c06e1d71e7d33161e9e8d2da1eefd222ec056af7025cb7",
+      "size": 24878755
     },
     "win7/ProjectArk_Installer.exe": {
       "sha256": "89285151c899178d403a91d883d1f4b88105f70c9f7a1b1a124db9f79b4e4706",
       "size": 23784072
     },
     "win7/dot.exe": {
-      "sha256": "d5cc1ab34aa669c331d353ec190583d34397acabb8df70d6c2cfca4c33241810",
-      "size": 25503139
+      "sha256": "5564d198377e6c482d50dbb7d793f3893560852042c1de053c11070913ccd7db",
+      "size": 25505709
     },
     "win7/setup.exe": {
-      "sha256": "a63bf0d0282c5c209a3317fe4c4c41392eb3430aa39cd3b7adee93cb6b45950e",
-      "size": 24076762
+      "sha256": "7269f19af4302e11a4ffc99ae1f8eb871101e3b440e41b9e4d6e59f6d88d2296",
+      "size": 24080546
     }
   }
 }
