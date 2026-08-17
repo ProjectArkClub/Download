@@ -1,5 +1,5 @@
 {
-  "version": "v4.765",
+  "version": "v4.766",
   "files": {
     "DmReg.dll": {
       "sha256": "2a37ce301490bd4b7c5d02b768b054705fe4620db6ef81061718c1fe89c9f27e",
@@ -26,28 +26,28 @@
       "size": 24964477
     },
     "win11/dot-beta.exe": {
-      "sha256": "862ff4840dbb797bd269dab4cf3ee33329cac6ded4a0900e74c4d224e943ce83",
-      "size": 26223595
+      "sha256": "10d0711d15416c5b85e21db716f05e0066298f0d3e110840264809821a7d1c71",
+      "size": 26223631
     },
     "win11/dot.exe": {
-      "sha256": "52f689583387405c7acbb7f9db2a0bf4651cfc8a168566db5c660c0b13bd6e5b",
-      "size": 26371747
+      "sha256": "e0823d83b7b3d843fb935bd244d8c8d42931724771c54a532d389041a5ebb62f",
+      "size": 26371783
     },
     "win11/setup.exe": {
-      "sha256": "6ea1b61e03673cd95471f1d795727467d2d185c35b3f498be0cf374ad21cd7cb",
-      "size": 24954725
+      "sha256": "69267c809191fff2e66d2603a73555cabb8c61ef6cb4c03888fafaed6dc76c2e",
+      "size": 24954091
     },
     "win7/ProjectArk_Installer.exe": {
       "sha256": "89285151c899178d403a91d883d1f4b88105f70c9f7a1b1a124db9f79b4e4706",
       "size": 23784072
     },
     "win7/dot.exe": {
-      "sha256": "34ba01b9aec9a1d2a753b5e4593a2f2be054cb56dbf65fef19d4ccfc0d954abc",
-      "size": 25541406
+      "sha256": "61fda0b867b457dcb8d214272ab3aac9b81fd428600c0329f6f4741b32da9452",
+      "size": 25541440
     },
     "win7/setup.exe": {
-      "sha256": "33e8171d9455a2c18ba87017acdee5a8b3f476ced85c9f4fc48bfa663e73902e",
-      "size": 24124978
+      "sha256": "2800421f0678702302137c21b92a2cd2fafb70338e12864c50e2c6073abb9323",
+      "size": 24125318
     }
   }
 }
