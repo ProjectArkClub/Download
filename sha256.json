@@ -1,5 +1,5 @@
 {
-  "version": "v4.781",
+  "version": "v4.783",
   "files": {
     "DmReg.dll": {
       "sha256": "2a37ce301490bd4b7c5d02b768b054705fe4620db6ef81061718c1fe89c9f27e",
@@ -22,24 +22,16 @@
       "size": 4218380
     },
     "win11/dot-beta.exe": {
-      "sha256": "83ef9ba56216623371975bf3969add810091df56fc01e17b0aab288fd831ccbe",
-      "size": 26769542
+      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
+      "size": 26520686
     },
     "win11/dot.exe": {
-      "sha256": "83ef9ba56216623371975bf3969add810091df56fc01e17b0aab288fd831ccbe",
-      "size": 26769542
-    },
-    "win11/setup.exe": {
-      "sha256": "f454a097baa65c7250830081a1dee0ef35fbd270109de85c1935c53363c229b4",
-      "size": 25174794
+      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
+      "size": 26520686
     },
     "win7/dot.exe": {
-      "sha256": "83ef9ba56216623371975bf3969add810091df56fc01e17b0aab288fd831ccbe",
-      "size": 26769542
-    },
-    "win7/setup.exe": {
-      "sha256": "bf9d147ee7f76b39bb67c07e98d811dd41d7fab5d931185ca8151f5825fda699",
-      "size": 24235731
+      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
+      "size": 26520686
     }
   }
 }
