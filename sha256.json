@@ -1,5 +1,5 @@
 {
-  "version": "v4.783",
+  "version": "v4.784",
   "files": {
     "DmReg.dll": {
       "sha256": "2a37ce301490bd4b7c5d02b768b054705fe4620db6ef81061718c1fe89c9f27e",
@@ -22,16 +22,16 @@
       "size": 4218380
     },
     "win11/dot-beta.exe": {
-      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
-      "size": 26520686
+      "sha256": "da825dcdb4267b617d548044c8fb78b0a52ff55f62eb0d36a9e54b58aec54baa",
+      "size": 26523091
     },
     "win11/dot.exe": {
-      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
-      "size": 26520686
+      "sha256": "da825dcdb4267b617d548044c8fb78b0a52ff55f62eb0d36a9e54b58aec54baa",
+      "size": 26523091
     },
     "win7/dot.exe": {
-      "sha256": "01c46f6afe5a39f9ea71dfe0bbb0b60e595594e0571e4bc2272a3e6a2f5b4238",
-      "size": 26520686
+      "sha256": "da825dcdb4267b617d548044c8fb78b0a52ff55f62eb0d36a9e54b58aec54baa",
+      "size": 26523091
     }
   }
 }
